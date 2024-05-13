@@ -1,2 +1,2 @@
 # LLM-Park
-LLM train code  for the newer
+LLM train code  for the beginner
